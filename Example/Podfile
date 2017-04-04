@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CoreSwiftLibrary_Example' do
+  pod 'CoreSwiftLibrary', :path => '../'
+
+  target 'CoreSwiftLibrary_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

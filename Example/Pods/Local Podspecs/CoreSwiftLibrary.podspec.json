@@ -1,0 +1,22 @@
+{
+  "name": "CoreSwiftLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of CoreSwiftLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ek.developers@gmail.com/CoreSwiftLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ek.developers@gmail.com": "ekachai@23perspective.com"
+  },
+  "source": {
+    "git": "https://github.com/ek.developers@gmail.com/CoreSwiftLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CoreSwiftLibrary/Classes/**/*"
+}

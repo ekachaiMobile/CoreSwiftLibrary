@@ -1,0 +1,16 @@
+PODS:
+  - CoreSwiftLibrary (0.1.0)
+
+DEPENDENCIES:
+  - CoreSwiftLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  CoreSwiftLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CoreSwiftLibrary: 9d4f37876eee9636a084d0ddc572afbb92748e46
+
+PODFILE CHECKSUM: cd014ed06aadcf76929ce4bcf0df0aded44ad4b3
+
+COCOAPODS: 1.2.1.beta.1
